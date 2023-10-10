@@ -2,10 +2,12 @@
 
 1. [음계](https://www.acmicpc.net/problem/2920)
 
-- 유형 : 배열, 구현
 - 난이도 : 하
 
 2. [블랙잭](https://www.acmicpc.net/problem/2798)
 
-- 유형 : 배열, 완전 탐색
 - 난이도 : 브론즈 2
+
+3[스택수열](https://www.acmicpc.net/problem/1874)
+
+- 난이도 : 실버 2
