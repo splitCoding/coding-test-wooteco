@@ -22,3 +22,11 @@
 5. [키로거](https://www.acmicpc.net/problem/5397)
 
 - 난이도 : 실버2
+
+6. [수찾기](https://www.acmicpc.net/problem/1920)
+
+- 난이도 : 실버4
+
+7. [친구 네트워크](https://www.acmicpc.net/problem/4195)
+
+- 난이도 : 골드 2
