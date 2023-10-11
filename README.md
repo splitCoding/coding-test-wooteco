@@ -14,3 +14,7 @@
 
 - 난이도 : 실버 2
 - [풀이](https://github.com/splitCoding/coding-test-wooteco/commit/b59c57e30f19d7d5fea4dbad50e9800ca353e3c2)
+
+4. [프린터큐](https://www.acmicpc.net/problem/1966)
+
+- 난이도 : 실버3
