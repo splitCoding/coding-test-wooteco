@@ -30,3 +30,7 @@
 7. [개인정보 수집 유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370)
 
 - 난이도 : 1
+
+8. [2xn 타일링](https://www.acmicpc.net/problem/11726)
+
+- 난이도 : 실버2
