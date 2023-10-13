@@ -27,6 +27,6 @@
 
 - 난이도 : 실버4
 
-7. [친구 네트워크](https://www.acmicpc.net/problem/4195)
+7. [개인정보 수집 유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370)
 
-- 난이도 : 골드 2
+- 난이도 : 1
